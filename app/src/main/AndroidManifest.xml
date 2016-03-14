@@ -41,9 +41,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".activities.loggedin.ItemListActivity" />
         </activity>
+        <!-- Set your fabric api key as value here -->
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="0eaf0cf46c85489dc02f08d1f6955a1ad4633286" />
+            android:value="0000000000000000000000000000000000000000"/>
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />

@@ -4,7 +4,8 @@
 
     <string name="please_wait">Please wait&#8230;</string>
     <string name="logout">logout</string>
-    <string name="id_text">id: %1$s</string>
+    <string name="id_text">Id: %1$s</string>
+    <string name="user_id_text">UserId: %1$s</string>
 
     <string name="error_message_connect">"Connect failed. Please try again."</string>
     <string name="error_message_refresh">"Refresh failed. Please try again."</string>
