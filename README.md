@@ -4,7 +4,7 @@ A simple Android app which connects with social apis. Currently it supports Twit
 <b>Screens of this app:</b>
 <ol>
 <li>
-Spash Screen: First screen of this app. Checks previous/saved logged in user information. If information exists, 
+Splash Screen: First screen of this app. Checks previous/saved logged in user information. If information exists, 
 <i>List Screen</i> is opened with saved data, else user is redirected to <i>Login Screen</i> to complete social api connection.
 </li>
 <li>
@@ -41,3 +41,10 @@ transitive = true;
 
 <b>Extra:</b>
 Application is developped to run when Developer Options --> Don't keep activities enabled.
+
+To run this project:
+<ol>
+<li>Set your Twitter Key and Secret at build.gradle file</li>
+<li>Set your Fabric apiSecret at fabric.properties file</li>
+<li>Set your Fabric Key at AndroidManifest.xml</li>
+</ol>
